@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=5V_GND Pin=C3-1
+Removed Pin From Net: NetName=8V Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C/1-1
+Removed Pin From Net: NetName=14V Pin=C/1-2
+Removed Member From Class: ClassName=TNY275_V1 Member=C/1
+Change Component Designator: OldDesignator=C4 NewDesignator=C3
+Change Component Designator: OldDesignator=C5 NewDesignator=C4
+Change Component Designator: OldDesignator=C6 NewDesignator=C5
+Change Component Designator: OldDesignator=C7 NewDesignator=C6
+Change Net Name : Old Net Name=NetC4_1 New Net Name=NetC3_1
+Change Net Name : Old Net Name=NetC5_2 New Net Name=NetC4_2

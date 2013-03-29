@@ -1,0 +1,8 @@
+Added Component: Designator=P?(2.54Òý½Å)
+Added Pin To Net: NetName=5V Pin=P?-1
+Added Pin To Net: NetName=5V_GND Pin=P?-2
+Added Pin To Net: NetName=14V Pin=P?-4
+Added Pin To Net: NetName=GND Pin=P?-5
+Added Pin To Net: NetName=300V Pin=P?-12
+Added Pin To Net: NetName=GND Pin=P?-13
+Added Member To Class: ClassName=TNY275_V1 Member=Component P? Header 13

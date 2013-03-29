@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=5V_GND Pin=C2-2
+Removed Pin From Net: NetName=300V Pin=D9-1
+Removed Pin From Net: NetName=NetC3_1 Pin=D9-2
+Removed Pin From Net: NetName=5V_GND Pin=U1-0
+Removed Pin From Net: NetName=5V_GND Pin=U1-2
+Removed Member From Class: ClassName=TNY275_V1 Member=C2
+Removed Member From Class: ClassName=TNY275_V1 Member=D9
+Removed Member From Class: ClassName=TNY275_V1 Member=U1
+Added Component: Designator=D12(MB10S)
+Added Pin To Net: NetName=NetC3_1 Pin=D12-3
+Added Pin To Net: NetName=GND Pin=D12-4
+Added Pin To Net: NetName=8V Pin=C1-1
+Added Pin To Net: NetName=8V Pin=D1-2
+Added Pin To Net: NetName=8V Pin=P?-1
+Added Net: Name=8V
+Added Pin To Net: NetName=AC_L Pin=D12-1
+Added Net: Name=AC_L
+Added Pin To Net: NetName=AC_N Pin=D12-2
+Added Net: Name=AC_N
+Added Member To Class: ClassName=TNY275_V1 Member=Component D12 Bridge1
+Added Room: Name=TNY275_V1

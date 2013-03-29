@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=NetC?_2 Pin=C?-2
+Removed Pin From Net: NetName=NetD?_1 Pin=D?-1
+Removed Pin From Net: NetName=NetD?_2 Pin=D?-2
+Removed Pin From Net: NetName=NetR?_1 Pin=R?-2
+Added Component: Designator=T(EFD15_DIP8)
+Added Pin To Net: NetName=5V Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_1 Pin=D?-1
+Added Pin To Net: NetName=NetC?_1 Pin=D?-1
+Added Pin To Net: NetName=NetC?_2 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetC?_1 Pin=R?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=NetC?_2 Pin=R?-2
+Added Pin To Net: NetName=NetD?_2 Pin=R?-2
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-2
+Added Pin To Net: NetName=NetQ?_3 Pin=R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Pin To Net: NetName=NetC?_1 Pin=T-1
+Added Pin To Net: NetName=NetD?_1 Pin=T-2
+Added Pin To Net: NetName=GND Pin=T-4
+Added Member To Class: ClassName=TNY275_V1 Member=Component C? Cap Pol1
+Added Member To Class: ClassName=TNY275_V1 Member=Component C? Cap
+Added Member To Class: ClassName=TNY275_V1 Member=Component C? Cap Pol1
+Added Member To Class: ClassName=TNY275_V1 Member=Component C? YµÁ»›
+Added Member To Class: ClassName=TNY275_V1 Member=Component C? Cap Pol1
+Added Member To Class: ClassName=TNY275_V1 Member=Component D? US1J
+Added Member To Class: ClassName=TNY275_V1 Member=Component D? P6KE200
+Added Member To Class: ClassName=TNY275_V1 Member=Component D? US1J
+Added Member To Class: ClassName=TNY275_V1 Member=Component D? US1J
+Added Member To Class: ClassName=TNY275_V1 Member=Component D? 14V
+Added Member To Class: ClassName=TNY275_V1 Member=Component D? 14V
+Added Member To Class: ClassName=TNY275_V1 Member=Component D? 4148
+Added Member To Class: ClassName=TNY275_V1 Member=Component R? Res1
+Added Member To Class: ClassName=TNY275_V1 Member=Component R? Res1
+Added Member To Class: ClassName=TNY275_V1 Member=Component R? Res1
+Added Member To Class: ClassName=TNY275_V1 Member=Component R? Res1
+Added Member To Class: ClassName=TNY275_V1 Member=Component R? Res1
+Added Member To Class: ClassName=TNY275_V1 Member=Component T EFD15
+Added Room: Name=TNY275_V1

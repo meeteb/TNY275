@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=C3 NewDesignator=C4
+Change Component Designator: OldDesignator=C4 NewDesignator=C5
+Change Component Designator: OldDesignator=C5 NewDesignator=C6
+Change Component Designator: OldDesignator=C6 NewDesignator=C8
+Added Component: Designator=C3(0805)
+Added Component: Designator=C7(0805)
+Added Pin To Net: NetName=5V_GND Pin=C3-1
+Added Pin To Net: NetName=8V Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=14V Pin=C7-2
+Change Net Name : Old Net Name=NetC3_1 New Net Name=NetC4_1
+Change Net Name : Old Net Name=NetC4_2 New Net Name=NetC5_2
+Added Member To Class: ClassName=TNY275_V1 Member=Component C7 Cap
+Added Member To Class: ClassName=TNY275_V1 Member=Component C8 YµÁ»›

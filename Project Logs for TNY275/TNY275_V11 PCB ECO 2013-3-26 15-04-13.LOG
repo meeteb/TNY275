@@ -1,0 +1,16 @@
+Added Component: Designator=C9(1206)
+Added Component: Designator=C10(0805)
+Added Component: Designator=VR1(SOT89)
+Added Pin To Net: NetName=5V_GND Pin=C9-2
+Added Pin To Net: NetName=5V_GND Pin=C10-1
+Added Pin To Net: NetName=5V_GND Pin=VR1-0
+Added Pin To Net: NetName=5V_GND Pin=VR1-2
+Added Pin To Net: NetName=8V Pin=VR1-3
+Added Pin To Net: NetName=5V Pin=C9-1
+Added Pin To Net: NetName=5V Pin=C10-2
+Added Pin To Net: NetName=5V Pin=VR1-1
+Added Net: Name=5V
+Added Member To Class: ClassName=TNY275_V1 Member=Component C3 Cap
+Added Member To Class: ClassName=TNY275_V1 Member=Component C9 25V
+Added Member To Class: ClassName=TNY275_V1 Member=Component C10 104
+Added Member To Class: ClassName=TNY275_V1 Member=Component VR1 78L05
